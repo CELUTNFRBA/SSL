@@ -1,5 +1,5 @@
 # Sintaxis y Semántica de los Lenguajes
-## Repositorio público individual para la materia Sintaxis y Semántica de los Lenguajes.
+### Repositorio público individual para la materia Sintaxis y Semántica de los Lenguajes.
 
 Curso: K2052
 
